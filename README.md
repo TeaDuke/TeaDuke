@@ -5,8 +5,11 @@
 student & developer
 
 location: lithuania
+
 nationality: ukrainian
+
 email: maxchernx@gmail.com
+
 linkedin: [maksym chernytskyi](https://www.linkedin.com/in/maksym-chernytskyi-b8a236334/)
 
 study in [ktu](https://en.ktu.edu)
