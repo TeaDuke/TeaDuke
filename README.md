@@ -1,4 +1,6 @@
-## hi there, i am teaduke
+![python](https://github.com/user-attachments/assets/38d8a7f7-167c-410c-8313-e19527b93f67)## hi there, i am teaduke
+
+#### 👩🏻‍🎓 student & developer | kaunas, lithuania
 
 ### about me
 
@@ -18,6 +20,13 @@ study in [ktu](https://en.ktu.edu)
 
 #### prog. languages
 - c++
+
+<img src="https://github.com/user-attachments/assets/05c9a703-33f2-4a12-9913-c8d01640de96" width="48" title="C++">
+<img src="https://github.com/user-attachments/assets/05c9a703-33f2-4a12-9913-c8d01640de96" width="48" title="C++">
+
+
+
+
 - c#
 - python
 - typescript
